@@ -1,0 +1,13 @@
+#nevjegy {
+  background-color: rgb(51, 219, 51);
+  position: fixed;
+  width: 400px;
+  text-align: center;
+  color: white;
+  padding: 7px;
+  top: 40px;
+  transform: rotate(45deg);
+  right: -130px;
+  font-size: 13px;
+  border: solid 3px gray;
+}
